@@ -1,0 +1,59 @@
+/* Add all your styles here */
+
+body{
+  margin:10px 15px;
+}
+.navbar{
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.jumbotron{
+  background-color:#F0F8FF;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius:5px;
+  box-shadow: 5px 7px 40px gray;
+}
+.btn-primary{
+  background:linear-gradient(45deg, #3366ff, #66ccff) ;
+  border: 0;
+}
+.jumbotron h1{
+  font-size: 50px;
+}
+.jumbotron p{
+  font-family: 'Poppins', sans-serif;
+}
+.card{
+  margin-bottom: 10px;
+  box-shadow: 5px 7px 40px gray;
+}
+.btn-rr{
+  margin-left: 180px;
+}
+.card-body{
+  background: linear-gradient(90deg, #b2e6ff, #ccffff);
+}
+.card-header{
+  background-color: #99ccff;
+}
+.card img{
+  hight: 200px;
+}
+.modal h5{
+  color: #3366ff;
+}
+.modal-body p{
+  color: dimgray;
+}
+.bot{
+  border: 1px solid black;
+  padding: 5px 20px;
+}
+td{
+  border: 1px solid black;
+  padding: 5px 15px;
+}
+footer{
+  text-align: center;
+}
