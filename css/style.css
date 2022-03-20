@@ -43,12 +43,18 @@ body{
 .modal h5{
   color: #3366ff;
 }
-.modal-body p{
-  color: dimgray;
+.modal-body .heading{
+  color: #3366ff;
+}
+.profile{
+  hight: 120px;
+  width: 120px;
+  margin: 20px;
+  background-color: #00BFFF;
 }
 .bot{
   border: 1px solid black;
-  padding: 5px 20px;
+  padding: 5px 15px;
 }
 td{
   border: 1px solid black;
