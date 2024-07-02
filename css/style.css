@@ -31,14 +31,18 @@ body{
 .btn-rr{
   margin-left: 180px;
 }
-.card-body{
+.card{
+  margin: 20px;
+}
+/* .card-body{
   background: linear-gradient(90deg, #b2e6ff, #ccffff);
 }
 .card-header{
   background-color: #99ccff;
-}
+} */
 .card img{
-  hight: 200px;
+  height: 300px;
+  padding: 15px;
 }
 .modal h5{
   color: #3366ff;
